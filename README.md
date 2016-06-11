@@ -1,2 +1,2 @@
 # projext
-My X project, Building myselft.
+My X project, Building myself.
